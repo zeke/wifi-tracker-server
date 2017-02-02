@@ -1,5 +1,4 @@
 const express = require('express')
-
 const app = express()
 const url = process.env.URL || 'https://wifi-tracker-server.herokuapp.com'
 const port = Number(process.env.PORT) || 5000

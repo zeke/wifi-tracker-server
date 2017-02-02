@@ -1,0 +1,13 @@
+{
+  "name": "wifi-tracker-server",
+  "version": "1.0.0",
+  "description": "Squirrel update server for Wifi Tracker",
+  "private": true,
+  "repository": "https://github.com/zeke/wifi-tracker-server",
+  "dependencies": {
+    "express": "^4.14.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
